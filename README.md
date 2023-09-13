@@ -12,7 +12,7 @@ Before running the applications, ensure that you have the following software ins
 
 1. **Build the Applications:**
 
-   To build the applications, navigate to the root folder of each application and execute the following command:
+   To build the applications, navigate to the root folder of the application and execute the following command:
 
    ```bash
    mvn clean package -P[environment]
