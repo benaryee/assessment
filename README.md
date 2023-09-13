@@ -19,7 +19,7 @@ Before running the applications, ensure that you have the following software ins
    ```
     
     where `[environment]` is the environment you want to build the application for. The available environments are: `dev`, `example`.
-   A sample profile is provided in the `application-example.properties` file for each environment. You can modify the profiles as per your requirements.
+   A sample profile is provided in the `application-example.properties` file. You can modify the profiles as per your requirements.
 
 
 2. **Run the Applications:**
