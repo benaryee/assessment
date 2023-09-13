@@ -27,4 +27,8 @@ Before running the applications, ensure that you have the following software ins
    mvn spring-boot:run
     ```
 
+
+A postman documentation has been published [here](https://documenter.getpostman.com/view/6029718/2s9YC4UCWJ)
+
+
 [//]: # (TODO: Add instructions for running the application using Docker and Docker Compose)
