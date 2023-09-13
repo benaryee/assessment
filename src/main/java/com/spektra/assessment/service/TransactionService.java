@@ -8,6 +8,7 @@ import java.util.List;
 
 public interface TransactionService {
 
+    //TODO: Pageable Request
     List<Transaction> getAllTransactions();
 
     Transaction getTransaction(Long id);
